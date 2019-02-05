@@ -1,5 +1,7 @@
 # DigitalHumanitiesMiniProject
 
+Project Link: https://sagivnet.wixsite.com/hebrewlovesongs
+
 Purposes:
 - Applying LemLDA algorithm for topic modeling on a lyrics corpus represented by XML files containing the fields of lyrics, singer, writer   and composer.
 - 
